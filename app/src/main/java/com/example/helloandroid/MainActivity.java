@@ -5,6 +5,8 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 
+private final String str = new String("test");
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
