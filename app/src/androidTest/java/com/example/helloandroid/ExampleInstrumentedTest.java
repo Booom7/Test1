@@ -24,4 +24,5 @@ public class ExampleInstrumentedTest {
 
         assertEquals("com.example.helloandroid", appContext.getPackageName());
     }//Jonas war da
+    //Jonas war gerade da via git 26.11.19 10:37
 }
