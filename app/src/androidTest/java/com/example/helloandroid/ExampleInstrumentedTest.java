@@ -23,5 +23,13 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
         assertEquals("com.example.helloandroid", appContext.getPackageName());
-    }
+    }//Jonas war da
+    //Jonas war gerade da via git 26.11.19 10:37
+    //TEst2
+    //Test 10:59
+    //Test 11:18
+    //Test 11:21
+    //Test 11:23
+    // Test 11:30 JJ
+// 11:34 JJ
 }
